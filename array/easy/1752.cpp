@@ -1,3 +1,5 @@
+//check if an array is sorted and rotated
+
 #include<bits/stdc++.h>
 using namespace std;
 
